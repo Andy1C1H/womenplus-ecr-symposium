@@ -1,0 +1,127 @@
+/*-- scss:defaults --*/
+
+/* Brand colours */
+$purple-main: #6A1B9A;
+$purple-light: #9C4DCC;
+$purple-soft: #F3E5F5;
+
+
+/*-- scss:rules --*/
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: $purple-main;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: $purple-main;
+  border-color: $purple-main;
+}
+
+.btn-primary:hover {
+  background-color: $purple-light;
+  border-color: $purple-light;
+}
+
+.btn-outline-secondary {
+  color: $purple-main;
+  border-color: $purple-main;
+}
+
+.btn-outline-secondary:hover {
+  background-color: $purple-main;
+  color: white;
+}
+
+/* Callout boxes – fully override default colours */
+.callout-important {
+  border-left: 6px solid $purple-main !important;
+  background-color: $purple-soft !important;
+}
+
+.callout-important .callout-title {
+  color: $purple-main !important;
+}
+
+.callout-important::before {
+  display: none;
+}
+
+.callout-note {
+  border-left: 6px solid $purple-light !important;
+  background-color: #faf5fc !important;
+}
+
+.callout-note::before {
+  display: none;
+}
+
+/* Custom purple callout (no Quarto defaults) */
+.callout-purple {
+  border-left: 6px solid $purple-main;
+  background-color: $purple-soft;
+  padding: 1.25rem;
+  border-radius: 6px;
+}
+
+.callout-purple h1,
+.callout-purple h2,
+.callout-purple h3,
+.callout-purple h4 {
+  color: $purple-main;
+}
+
+.callout-purple {
+  box-shadow: 0 4px 12px rgba(106, 27, 154, 0.15);
+}
+
+/* Links */
+a {
+  color: $purple-main;
+}
+
+a:hover {
+  color: $purple-light;
+}
+
+
+/* Programme schedule blocks */
+
+.programme-block {
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  border-left: 6px solid $purple-main;
+  background-color: #faf5fc;
+  border-radius: 8px;
+}
+
+.programme-block h3 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  color: $purple-main;
+}
+
+.programme-block .time {
+  font-weight: 600;
+  color: #4a2a6a;
+}
+
+/* Session types */
+.programme-block.keynote {
+  background-color: $purple-soft;
+}
+
+.programme-block.talks {
+  border-left-color: $purple-light;
+}
+
+.programme-block.posters {
+  border-left-color: #7b4bb7;
+}
+
+.programme-block.break {
+  background-color: #f8eafc;
+  border-left-color: #c158dc;
+}
+

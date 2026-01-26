@@ -1,0 +1,57 @@
+---
+title: "Women+ ECR Symposium"
+---
+
+On the **6^th^ of March** **2026,** to celebrate International Women’s Day, we will hold our first *Women+ in Early Career Research Symposium at* TU Dublin's city campus. The aim of this symposium is to create a supportive, inclusive space to showcase research, foster cross-disciplinary dialogue, and build networks among women and gender-diverse researchers at early career stages.
+
+We invite paper submissions from **early-career women+ researchers** across disciplines, including STEM, humanities, health, creative practice, and interdisciplinary work. We especially encourage submissions from researchers whose voices are underrepresented in academia, including those from marginalized backgrounds, caregiving roles, regional institutions, and non-traditional career pathways.
+
+Due to the interdisciplinary nature of the symposium, researchers outside your field may be reviewing your paper; for this reason, we ask all papers, presentations and posters to be pitched at a broad scientific audience level. All accepted papers will be published on [Arrow](https://arrow.tudublin.ie/) TU Dublin’s Open Access institutional repository. There will be no charge for attending the symposium or publishing on Arrow.
+
+## Who Can Submit
+
+-   Early career researchers including but not limited to PhD candidates, postdoctoral researchers or those in their first 10 years of research
+
+-   Women and gender-diverse researchers (including trans, non-binary, genderqueer)
+
+-   Researchers from any institution or discipline on the Island of Ireland
+
+## Presentation Formats
+
+-   Lightning talks (5 min)\
+-   1st-year PhD track (5 min)\
+-   Oral presentations (10 min)\
+-   Posters
+
+## Submissions
+
+**Length:**\
+1–3 pages (including references)
+
+**Style:**\
+Submissions should be written as an accessible science communication piece for a broad scientific audience.
+
+**Format:**\
+Please use the LaTeX template provided. [Download LaTeX Template](https://your-template-link-here){.btn .btn-outline-secondary}
+
+**How to Submit:**\
+Submissions will be accepted through Arrow. We will add the link in this section once it is live.
+
+**Publication:**\
+Accepted papers will be published through **ARROW**. Each paper will have an individual DOI.
+
+**Reviewers:**\
+We would like to request with each submission one author volunteers to review.
+
+
+## How to Attend
+We will have a limited number of tickets available on eventbrite. A link will be added here once they are available. Tickets are free of charge but for organisational and catering purposes we ask if you can nolonger attend that you cancel your ticket.
+
+
+::: {.callout-purple}
+## Key Dates
+
+-   **Submission deadline:** 9th February 2026 at 11.59pm IST
+-   **Notification of acceptance:** 25th of February 2026
+-   **Symposium date:** 6 March 2026
+:::
