@@ -7,10 +7,16 @@ website:
     background: "#6A1B9A"   # deep purple
     foreground: white
     left:
-      - href: index.qmd
+      - href: index.html
         text: Home
-      - about.qmd
-      - schedule.qmd
+      - href: about.html
+        text: About
+      - href: schedule.html
+        text: Programme
+
+# TOP-LEVEL SETTINGS
+output-dir: _site
+clean-url: true
 
 format:
   html:
@@ -22,4 +28,6 @@ format:
     toc: true
 
 editor: visual
+
+
 

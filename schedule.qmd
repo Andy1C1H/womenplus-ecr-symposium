@@ -21,7 +21,7 @@ title: "Programme (Draft)"
 :::
 
 ::: {.programme-block .keynote}
-[10:45 – 11:]{.time}30
+[10:45 – 11:30]{.time}
 
 <h3>Keynote Address</h3>
 
