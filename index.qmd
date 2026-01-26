@@ -43,8 +43,8 @@ Accepted papers will be published through **ARROW**. Each paper will have an ind
 **Reviewers:**\
 We would like to request that with each submission one author volunteers to review.
 
-
 ## Attending the Women+ in ECR Symposium
+
 **Location**\
 TU Dublin's city campus, exact location TBC
 
@@ -54,13 +54,10 @@ Any gender at any stage of their research career, once you have a ticket.
 **How to get a Ticket**\
 We will have a limited number of tickets available on eventbrite. A link will be added here once they are available. Tickets are free of charge but for organisational and catering purposes we ask if you can no longer attend that you cancel your ticket.
 
-
-::: {.callout-purple}
+::: callout-purple
 ## Key Dates
 
 -   **Submission deadline:** 9th February 2026 at 11.59pm IST
 -   **Notification of acceptance:** 25th of February 2026
 -   **Symposium date:** 6 March 2026
 :::
-
-
