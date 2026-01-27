@@ -1,10 +1,11 @@
 project:
   type: website
+  resources:
+    - assets/womenplus_ecr_latex.zip
+
 
 website:
   title: "Women+ ECR Symposium"
-  copy-files:
-    - assets/womenplus_ecr_latex.zip
   navbar:
     background: "#6A1B9A"   # deep purple
     foreground: white
