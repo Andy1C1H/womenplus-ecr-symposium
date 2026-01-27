@@ -32,7 +32,8 @@ Due to the interdisciplinary nature of the symposium, researchers outside your f
 Submissions should be written as an accessible science communication piece for a broad scientific audience.
 
 **Format:**\
-Please use the LaTeX template provided. [⬇ Download the LaTeX template (ZIP)](assets/womenplus_ecr_latex.zip){.btn .btn-primary}
+Please use the LaTeX template provided. [⬇ Download the LaTeX template](assets/womenplus_ecr_latex.zip){.btn .btn-primary}
+
 
 
 **How to Submit:**\
