@@ -33,6 +33,21 @@ h1, h2, h3, h4 {
   background-color: $purple-main;
   color: white;
 }
+.download-btn {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #8E24AA; /* purple */
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.download-btn:hover {
+  background-color: #AD3BC9;
+  color: white;
+}
+
 
 /* Callout boxes – fully override default colours */
 .callout-important {
