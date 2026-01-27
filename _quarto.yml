@@ -16,7 +16,8 @@ website:
         text: About
       - href: schedule.html
         text: Programme
-
+      - href: contacts.qmd
+        text: Contacts
 # TOP-LEVEL SETTINGS
 output-dir: _site
 clean-url: true
