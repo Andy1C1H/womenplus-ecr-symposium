@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   resources:
     - assets/womenplus_ecr_latex.zip
 
