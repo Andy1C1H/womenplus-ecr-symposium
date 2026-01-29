@@ -34,6 +34,27 @@ Submissions should be written as an accessible science communication piece for a
 **Format:**\
 Please use the LaTeX template provided. [⬇ Download the LaTeX template](assets/womenplus_ecr_latex.zip){.btn .btn-primary}
 
+**Research Areas:**\
+Research area tells us what areas you feel represents your submission best. We accept submissions for all areas such as (but not limited to:)
+
+
+- **Natural & Physical Sciences:**
+  Physics, Chemistry, Mathematics, Earth & Environmental Sciences
+
+- **Life Sciences & Health:**
+  Biology, Medicine, Public Health, Psychology, Neuroscience
+
+- **Engineering & Digital:**
+  Engineering, Computer Science, AI, Data Science, Robotics
+
+- **Social Sciences & Policy:**
+  Economics, Sociology, Political Science, Development & Public Policy
+
+- **Humanities, Arts & Culture:**
+  History, Philosophy, Literature, Media, Design, Cultural Studies
+
+- **Business, Education & Law:**
+  Management, Entrepreneurship, Education Research, Governance, Law
 
 
 **How to Submit:**\
