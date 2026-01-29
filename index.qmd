@@ -58,7 +58,7 @@ Research area tells us what areas you feel represents your submission best. We a
 
 
 **How to Submit:**\
-Submissions will be accepted through Arrow. We will add the link in this section once it is live.
+To submit a paper you must complete this form [Open submission form](https://forms.cloud.microsoft/e/0ag3sf4Dp6){.btn .btn-primary}and email the PDF submission to andrea.c.heaney@mytudublin.ie  
 
 **Publication:**\
 Accepted papers will be published through **ARROW**. Each paper will have an individual DOI.
