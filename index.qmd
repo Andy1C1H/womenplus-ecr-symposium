@@ -35,7 +35,7 @@ Submissions should be written as an accessible science communication piece for a
 Please use the LaTeX template provided. [⬇ Download the LaTeX template](assets/womenplus_ecr_latex.zip){.btn .btn-primary}
 
 **Research Areas:**\
-Research area tells us what areas you feel represents your submission best. We accept submissions for all areas such as (but not limited to:)
+Research area tells us what areas you feel represents your submission best. We accept submissions for all areas such as (but not limited to:) change
 
 
 - **Natural & Physical Sciences:**
