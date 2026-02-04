@@ -68,6 +68,18 @@ Accepted papers will be published through **ARROW**. Each paper will have an ind
 **Reviewers:**\
 We would like to request that with each submission one author volunteers to review.
 
+## Frequently Asked Questions
+
+::: {.callout-note collapse="true"}
+## What is the difference between a "1st Year PhD track" and a "lightning talk"?
+The only difference between between the talks is who else will be presenting alongside you. We understand being a first year PhD can be intimidating so made a track for to encourage participation. 
+If you are in the first 18 months of your PhD and don't mind who else is presenting in your session you are welcome to apply for both.
+:::
+
+::: {.callout-note collapse="true"}
+## ?
+:::
+
 ## Attending the Women+ in ECR Symposium
 
 **Location**\
