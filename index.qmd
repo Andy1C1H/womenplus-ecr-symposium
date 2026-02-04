@@ -77,7 +77,54 @@ If you are in the first 18 months of your PhD and don't mind who else is present
 :::
 
 ::: {.callout-note collapse="true"}
-## ?
+## Should I include my supervisors as authors?
+This is up to your own discretion, we advise including supervisors if you are submitting a paper based on the research they supervise. Some people might submit "passion project work" or something that isn't directly related to their research. For example someone might submit this is what I learned teaching computer science in university and their research might have nothing to do with teaching. In this sernario we advise you include those who you deem should be included.
+:::
+
+::: {.callout-note collapse="true"}
+## What should the format be? 
+
+⁠If you download the latex template it has abstract, introduction, insert sections you deem appropriate conclusion and a few other bits. People may be desk rejected from not using the template, and the marking scheme will reference elements in the template. If there is an issue with using the template please contact us.
+:::
+::: {.callout-note collapse="true"}
+## Should I include all the headings in the emplate
+Yes. Our marking scheme will reference elements in the paper.
+:::
+::: {.callout-note collapse="true"}
+## Whats a BLUF and why do I need it?
+BLUF or Bottom Line Upfront is a short 1 to 2 sentences about your submission. In our publication it readers will be able to look at the BLUF and gain an understanding of what the research is about.
+:::
+
+::: {.callout-note collapse="true"}
+## When will presentation formats be chosen? 
+Put down what type of presentation(s) you want to do and if you are selected we will let you know what presentation they will do based on other submissions and reviewers feedback.
+:::
+::: {.callout-note collapse="true"}
+## Should we include a funding body/acknowledgement section? 
+This is at the discretion of the author but  see "Should I include my supervisors as authors?". If you are presenting on your research that is funded by "X" put down an acknowledgement section. If you are speaking on your passion project or something you are doing outside your research funding I would see that as not needing to acknowledge "X". But we can't comment on what contract someone signed for their funding if you are in doubt please check with your funding body as each funding body is different.
+:::
+::: {.callout-note collapse="true"}
+## I would like to review submissions how does that work?
+Please email andrea.c.heaney@mytudublin.ie and we will send on further information.
+:::
+::: {.callout-note collapse="true"}
+## Do I have to be a Woman+ or in my early career to review
+No we are happy to have reviewers of any and all backgrounds please email andrea.c.heaney@mytudublin.ie and we will send on further information.
+:::
+
+::: {.callout-note collapse="true"}
+## Where is the line between a marketing style and an accessible communication style?
+
+Marketing style from my point of view would be more persuasive as in you should read this paper to know more about this. Marketing style would also use a lot of catchy language but doesn't always back it up. It leaves you guessing.
+Where as science communication language would focus more on educating the reader and translating scientific language to more accessible language without oversimplifying.
+
+For example if your title was this "the woes and wonders of computer science" that's great marketing but tells us nothing about the topic and is poor science communication. But if you changed it to something like "the woes and wonders of computer science: what interviews can tell us about the challenges and opportunities of being a student studying computer science" That's a lot more clear I know what the paper will be about.
+
+We are happy if you want to use language to hook us in. But be sure to not leave us hanging in any part. 
+:::
+::: {.callout-note collapse="true"}
+### How do I write a science communication abstact.
+Like any other abstract it should be a concise, standalone summary of the paper, with language accessible language so someone outside your domain can understand your research.
 :::
 
 ## Attending the Women+ in ECR Symposium
