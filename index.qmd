@@ -33,6 +33,7 @@ Submissions should be written as an accessible science communication piece for a
 
 **Format:**\
 Please use the LaTeX template provided. [⬇ Download the LaTeX template](assets/womenplus_ecr_latex.zip){.btn .btn-primary}
+Please note once you download the template please upload the zip to Overleaf (or whatever you use to open Latex files). There is a "Source" folder and a "write in this folder", you should edit the "UseMe.tex" to write your submission. The "Source" folder will give it structure for you. You may wish to upload a .bib file if you wish to add references.
 
 **Research Areas:**\
 Research area tells us what areas you feel represents your submission best. We accept submissions for all areas such as (but not limited to:)
@@ -59,7 +60,6 @@ Research area tells us what areas you feel represents your submission best. We a
 
 **How to Submit:**\
 To submit a paper you must complete the submission form **and** email the PDF paper submission to andrea.c.heaney@mytudublin.ie [Open submission form](https://forms.cloud.microsoft/e/0ag3sf4Dp6){.btn .btn-primary}
-Please note once you download the template please upload the zip to Overleaf (or whatever you use to open Latex files). There is a "Source" folder and a "write in this folder", you should edit the "UseMe.tex" to write your submission. The "Source" folder will give it structure for you. You may wish to upload a .bib file if you wish to add references.
 
 
 **Publication:**\
