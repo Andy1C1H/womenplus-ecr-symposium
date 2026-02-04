@@ -33,7 +33,7 @@ Submissions should be written as an accessible science communication piece for a
 
 **Format:**\
 Please use the LaTeX template provided. [⬇ Download the LaTeX template](assets/womenplus_ecr_latex.zip){.btn .btn-primary}
-Please note once you download the template please upload the zip to Overleaf (or whatever you use to open Latex files). There is a "Source" folder and a "write in this folder", you should edit the "UseMe.tex" to write your submission. The "Source" folder will give it structure for you. You may wish to upload a .bib file if you wish to add references.
+Please note once you download the template please upload the zip to Overleaf (or whatever you use to open Latex files). There is a "Source" folder and a "write in this folder", you should edit the "UseMe.tex" to write your submission. The "Source" folder will give it structure for you. You may wish to upload a .bib file if you wish to add references. When you are ready to submit recompile your latex document and download a pdf for submission.
 
 **Research Areas:**\
 Research area tells us what areas you feel represents your submission best. We accept submissions for all areas such as (but not limited to:)
@@ -57,7 +57,7 @@ Research area tells us what areas you feel represents your submission best. We a
 - **Business, Education & Law:**
   Management, Entrepreneurship, Education Research, Governance, Law
 
-
+<span id="how-to-submit"></span>
 **How to Submit:**\
 To submit a paper you must complete the submission form **and** email the PDF paper submission to andrea.c.heaney@mytudublin.ie [Open submission form](https://forms.cloud.microsoft/e/0ag3sf4Dp6){.btn .btn-primary}
 
@@ -87,7 +87,7 @@ This is up to your own discretion, we advise including supervisors if you are su
 ⁠If you download the latex template it has abstract, introduction, insert sections you deem appropriate conclusion and a few other bits. People may be desk rejected from not using the template, and the marking scheme will reference elements in the template. If there is an issue with using the template please contact us.
 :::
 ::: {.callout-note collapse="true"}
-## Should I include all the headings in the emplate
+## Should I include all the headings in the template?
 Yes. Our marking scheme will reference elements in the paper.
 :::
 ::: {.callout-note collapse="true"}
@@ -108,7 +108,7 @@ This is at the discretion of the author but  see "Should I include my supervisor
 Please email andrea.c.heaney@mytudublin.ie and we will send on further information.
 :::
 ::: {.callout-note collapse="true"}
-## Do I have to be a Woman+ or in my early career to review
+## Do I have to be a Woman+ or in my early career to review?
 No we are happy to have reviewers of any and all backgrounds please email andrea.c.heaney@mytudublin.ie and we will send on further information.
 :::
 
@@ -123,10 +123,18 @@ For example if your title was this "the woes and wonders of computer science" th
 We are happy if you want to use language to hook us in. But be sure to not leave us hanging in any part. 
 :::
 ::: {.callout-note collapse="true"}
-### How do I write a science communication abstact.
+### How do I write a science communication abstact?
 Like any other abstract it should be a concise, standalone summary of the paper, with language accessible language so someone outside your domain can understand your research.
 :::
-
+::: {.callout-note collapse="true"}
+### Why do I need to submit a form and email the PDF?
+Unfortunately our organisation has a restriction on 
+uplaoding PDF's into microsoft forms. For this reason please fill out the form and email the pdf. The form captures important data which is not present in the paper template. See [How to Submit](#how-to-submit).
+:::
+::: {.callout-note collapse="true"}
+### Do I need to remove my identifyable information before submitting?/ Is the reviewing double blinded?
+No. It is a single blind review process but we will ensure the reviewer doesn't have an affiliation with you.
+:::
 ## Attending the Women+ in ECR Symposium
 
 **Location**\
