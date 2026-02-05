@@ -8,6 +8,7 @@ project:
 website:
   title: "Women+ ECR Symposium"
   navbar:
+    logo: /image/logo_dark_bkg.png
     background: "#291957"   # deep purple
     foreground: white
     left:
