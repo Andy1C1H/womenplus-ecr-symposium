@@ -8,7 +8,7 @@ project:
 website:
   title: "Women+ ECR Symposium"
   navbar:
-    background: "#6A1B9A"   # deep purple
+    background: "#291957"   # deep purple
     foreground: white
     left:
       - href: index.html

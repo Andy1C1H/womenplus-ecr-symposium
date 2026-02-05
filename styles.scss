@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 /* Brand colours */
-$purple-main: #291957;
+$purple-main: #8356a3;
 $purple-light: #9C4DCC;
 $purple-soft: #a97fb9;
 
@@ -36,7 +36,7 @@ h1, h2, h3, h4 {
 .download-btn {
   display: inline-block;
   padding: 12px 20px;
-  background-color: #291957; /* purple */
+  background-color: $purple-light; /* purple */
   color: white;
   text-decoration: none;
   border-radius: 8px;
@@ -44,7 +44,7 @@ h1, h2, h3, h4 {
 }
 
 .download-btn:hover {
-  background-color: #291957;
+  background-color: $purple-light;
   color: white;
 }
 
