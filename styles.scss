@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
 /* Brand colours */
-$purple-main: #6A1B9A;
+$purple-main: #291957;
 $purple-light: #9C4DCC;
-$purple-soft: #F3E5F5;
+$purple-soft: #a97fb9;
 
 
 /*-- scss:rules --*/
@@ -36,7 +36,7 @@ h1, h2, h3, h4 {
 .download-btn {
   display: inline-block;
   padding: 12px 20px;
-  background-color: #8E24AA; /* purple */
+  background-color: #291957; /* purple */
   color: white;
   text-decoration: none;
   border-radius: 8px;
@@ -44,7 +44,7 @@ h1, h2, h3, h4 {
 }
 
 .download-btn:hover {
-  background-color: #AD3BC9;
+  background-color: #291957;
   color: white;
 }
 
@@ -136,7 +136,7 @@ a:hover {
 }
 
 .programme-block.break {
-  background-color: #f8eafc;
-  border-left-color: #c158dc;
+  background-color: #5b2d84;
+  border-left-color: #8356a3;
 }
 
