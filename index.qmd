@@ -130,12 +130,14 @@ Like any other abstract it should be a concise, standalone summary of the paper,
 ::: {.callout-note collapse="true"}
 ### Why do I need to submit a form and email the PDF?
 Unfortunately our organisation has a restriction on 
-uplaoding PDF's into microsoft forms. For this reason please fill out the form and email the pdf. The form captures important data which is not present in the paper template. See [How to Submit](#how-to-submit).
+uploading PDF's into microsoft forms. For this reason please fill out the form and email the pdf. The form captures important data which is not present in the paper template. See [How to Submit](#how-to-submit).
 :::
 ::: {.callout-note collapse="true"}
-### Do I need to remove my identifyable information before submitting?/ Is the reviewing double blinded?
-No. It is a single blind review process but we will ensure the reviewer doesn't have an affiliation with you.
+### Do I need to remove my identifiable information before submitting?/ Is the reviewing double blinded?
+No. It is a single blind review process (i.e. your reviewer will know you but you wont know your reviewer) but we will ensure the reviewer doesn't have an affiliation with you.
 :::
+
+
 ## Attending the Women+ in ECR Symposium
 
 **Location**\
