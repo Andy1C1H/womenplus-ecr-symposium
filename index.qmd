@@ -34,7 +34,7 @@ Submissions should be written as an accessible science communication piece for a
 <span id="Format"></span>
 **Format:**\
 Please use the LaTeX template provided. [⬇ Download the LaTeX template](assets/womenplus_ecr_latex.zip){.btn .btn-primary}
-Please note once you download the template please upload the zip to Overleaf (or whatever you use to open Latex files). There is a "Source" folder and a "write in this folder", you should edit the "UseMe.tex" to write your submission. The "Source" folder will give it structure for you. You may wish to upload a .bib file if you wish to add references. When you are ready to submit recompile your latex document and download a pdf for submission. We do understand there are some issues using overleaf we have created a step by step guide to help. [⬇ Download the LaTeX template](steps_for_using_overleaf.docx){.btn .btn-primary}
+Please note once you download the template please upload the zip to Overleaf (or whatever you use to open Latex files). There is a "Source" folder and a "write in this folder", you should edit the "UseMe.tex" to write your submission. The "Source" folder will give it structure for you. You may wish to upload a .bib file if you wish to add references. When you are ready to submit recompile your latex document and download a pdf for submission. We do understand there are some issues using overleaf we have created a step by step guide to help. [⬇ Download steps for using overleaf](steps_for_using_overleaf.docx){.btn .btn-primary}
 
 **Research Areas:**\
 Research area tells us what areas you feel represents your submission best. We accept submissions for all areas such as (but not limited to:)
