@@ -10,7 +10,7 @@ website:
   title: "Women+ ECR Symposium"
   navbar:
     logo: images/logo_dark_bkg.png
-    logo-height: 50px
+    logo-height: 100px
     background: "#291957"   # deep purple
     foreground: white
     left:
