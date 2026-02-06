@@ -22,5 +22,19 @@ Our goal is to collaborate and support one another through our early careers in 
 
 -   **Community support** via active WhatsApp group and monthly in-person coffee socials in Dublin.
 
-# How to Join the Group
+:::: {.columns}
+::: {.column width = "50%"}
+## Our Symbol and What it Means
+![Our Symbol](images/Logo_explained.png){fig-aline = "left" width = "200"}
+::: 
+::: {.column width = "50%"}
+Reclaiming a “masculine” symbol the shield historically represented academia, institutions and guilds, spaces from which Women+ have often been excluded from. The identity deliberately reclaims that visual language, transforming it into something inclusive, modern, and community-led.
+
+The shield is divided into interwoven, abstract sections, representing the many disciplines within early career research. Rather than separating fields, these forms connect and overlap, reinforcing the idea that progress is made through collaboration, shared knowledge, and mutual support. 
+:::
+::::
+
+
+## How to Join the Group
+
 If you would like to join the group please fill out this form.[Join Women+ in ECR](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2nUkLwFyhEFBjvYhxJ3OxfFUMVJaSkRQQjNVVlBHNlhXQzQ4SzVCSU40TS4u){.btn .btn-outline-secondary}
