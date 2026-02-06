@@ -7,8 +7,9 @@ project:
 
 
 website:
+  title: "Women+ Early Career Research"
   navbar:
-    logo: images/logo_dark_bkg.png
+    logo: images/shield.png
     logo-height: 100px
     background: "#291957"   # deep purple
     foreground: white
