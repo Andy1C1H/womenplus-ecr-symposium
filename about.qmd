@@ -26,10 +26,10 @@ Our goal is to collaborate and support one another through our early careers in 
 ## Our Symbol and What it Means
 
 :::: {.columns}
-::: {.column width = "50%"}
+::: {.column width = "49%"}
 ![Our Symbol](images/Logo_explained.png){}
 ::: 
-::: {.column width = "50%"}
+::: {.column width = "49%"}
 Reclaiming a “masculine” symbol the shield historically represented academia, institutions and guilds, spaces from which Women+ have often been excluded from. The identity deliberately reclaims that visual language, transforming it into something inclusive, modern, and community-led.
 
 The shield is divided into interwoven, abstract sections, representing the many disciplines within early career research. Rather than separating fields, these forms connect and overlap, reinforcing the idea that progress is made through collaboration, shared knowledge, and mutual support. 
