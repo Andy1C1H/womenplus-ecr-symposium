@@ -25,7 +25,7 @@ Our goal is to collaborate and support one another through our early careers in 
 
 ## Our Symbol and What it Means
 
-:::: {.columns style="gap: 2rem;"}
+:::: {.columns style="gap: 10rem;"}
 ::: {.column width = "50%"}
 ![Our Symbol](images/Logo_explained.png){}
 ::: 
