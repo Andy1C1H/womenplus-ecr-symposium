@@ -7,7 +7,6 @@ project:
 
 
 website:
-  title: "Women+ ECR Symposium"
   navbar:
     logo: images/logo_dark_bkg.png
     logo-height: 100px
