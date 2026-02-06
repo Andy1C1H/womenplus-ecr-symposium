@@ -3,12 +3,14 @@ project:
   output-dir: docs
   resources:
     - assets/womenplus_ecr_latex.zip
+    - images/
 
 
 website:
   title: "Women+ ECR Symposium"
   navbar:
     logo: images/logo_dark_bkg.png
+    logo-height: 50px
     background: "#291957"   # deep purple
     foreground: white
     left:
