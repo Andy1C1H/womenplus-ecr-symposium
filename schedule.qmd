@@ -34,7 +34,7 @@ title: "Programme (Draft)"
 <h3>1st Year PhD Panel</h3>
 :::
 
-## Afternoon
+## Lunch
 
 ::: {.programme-block .break}
 [13:00 – 14:00]{.time}
@@ -42,6 +42,7 @@ title: "Programme (Draft)"
 <h3>Lunch and Posters</h3>
 :::
 
+## Afternoon
 ::: {.programme-block .talks}
 [14:00 – 14:30]{.time}
 
