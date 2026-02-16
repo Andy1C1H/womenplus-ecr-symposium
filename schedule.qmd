@@ -9,19 +9,19 @@ title: "Programme (Draft)"
 ## Morning
 
 ::: {.programme-block .break}
-[10.00 – 10:30]{.time}
+[10.00 – 11:00]{.time}
 
 <h3>Registration & Coffee</h3>
 :::
 
 ::: {.programme-block .keynote}
-[10:30 – 10:45]{.time}
+[11:00 – 11:20]{.time}
 
 <h3>Welcome & Opening Remarks</h3>
 :::
 
 ::: {.programme-block .keynote}
-[10:45 – 11:30]{.time}
+[11:20 – 12:10]{.time}
 
 <h3>Keynote Address</h3>
 
@@ -29,22 +29,33 @@ title: "Programme (Draft)"
 :::
 
 ::: {.programme-block .talks}
-[11:30 – 12:30]{.time}
+[12:10 – 12:30]{.time}
 
-<h3>Talks TBC</h3>
+<h3>1st Year PhD Panel</h3>
 :::
 
 ## Afternoon
 
 ::: {.programme-block .break}
-[12:30 – 13:30]{.time}
+[13:00 – 14:00]{.time}
 
-<h3>Lunch</h3>
+<h3>Lunch and Posters</h3>
 :::
 
+::: {.programme-block .break}
+[14:00 – 14:30]{.time}
+
+<h3>4 Lightning Talks</h3>
+:::
+
+::: {.programme-block .break}
+[14:30 – 15:30]{.time}
+
+<h3>4 Oral Talks</h3>
+:::
 
 ::: {.programme-block .keynote}
-[16:15 – 16:30]{.time}
+[15:30 – 16:00]{.time}
 
 <h3>Closing Remarks</h3>
 :::
