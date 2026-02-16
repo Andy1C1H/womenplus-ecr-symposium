@@ -42,13 +42,13 @@ title: "Programme (Draft)"
 <h3>Lunch and Posters</h3>
 :::
 
-::: {.programme-block .break}
+::: {.programme-block .talks}
 [14:00 – 14:30]{.time}
 
 <h3>4 Lightning Talks</h3>
 :::
 
-::: {.programme-block .break}
+::: {.programme-block .talks}
 [14:30 – 15:30]{.time}
 
 <h3>4 Oral Talks</h3>
