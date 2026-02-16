@@ -1,6 +1,7 @@
 /*-- scss:defaults --*/
 
 /* Brand colours */
+$purple_dark: #291957;
 $purple-main: #8356a3;
 $purple-light: #9C4DCC;
 $purple-soft: #a97fb9;
@@ -125,10 +126,12 @@ a:hover {
 
 /* Session types */
 .programme-block.keynote {
+  color: $purple-dark;
   background-color: $purple-soft;
 }
 
 .programme-block.talks {
+  color: $purple-dark;
   border-left-color: $purple-light;
 }
 
@@ -137,6 +140,7 @@ a:hover {
 }
 
 .programme-block.break {
+  color: $purple-dark;
   background-color: $purple-bkg;
   border-left-color: #8356a3;
 }
