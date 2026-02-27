@@ -34,21 +34,11 @@ title: "Programme (Draft)"
 <p>Dr Ebun Joseph is a leading Inclusion and race relations consultant, and the founder and CEO of the Institute of Antiracism and Black Studies (IABS). She serves as Ireland’s Special Rapporteur on Racial Equality and Racism and is the module coordinator and lecturer for Black Studies at University College Dublin (UCD)—a pioneering course she established in 2018 as Ireland’s first. Dr Joseph is also the founder of the African Scholars Association Ireland (AfSAI), which she chaired from 2018 to 2022. Her previous roles include Career Development Consultant at the Royal College of Surgeons in Ireland (RCSI), Teaching Fellow at Trinity College Dublin (TCD), and Training and Employment Officer with the EPIC programme. An accomplished author, TV panellist, and equality activist, Dr Joseph’s research focuses on race, labour markets, and structural inequality. Her publications include Critical Race Theory and Inequality in the Labour Market (Manchester University Press, 2020); Equity in the Workplace series: Stories of Black Irish Women in Ireland (2024); Stories of Black Irish women in academia (2025), and Challenging Perceptions of Africa in Schools (Routledge, 2020).  Dr Joseph is the award winning author of the IRJ Prize awarded to the paper adjudicated to represent the best original contribution to the journal in a given year. ‘Composite counterstorytelling as a technique for challenging ambivalence about race and racism in the labour market in Ireland. She is also a documentary producer of 'Equity in the workplace' and is currently working on ECHOES OF 2004 to be launched February, 2026. Outside academia, she is the host of The DEeP Table Talk</p>
 :::
 ::: {.programme-block .talks}
-[12:00 – 12:15]{.time}
+[12:00 – 12:30]{.time}
 <h3>Publishing the Women+ in Early Career Research Symposium</h3>
 <h4>Andrea Heaney</h4>
 :::
-::: {.programme-block .talks}
-[12:10 – 12:30]{.time}
 
-<h3></h3>
-:::
-
-::: {.programme-block .talks}
-[12:10 – 12:30]{.time}
-
-<h3></h3>
-:::
 
 ## Lunch
 
@@ -75,9 +65,10 @@ Evidence-Based Gender Equality Actions in Computing Education</h4>
 :::
 
 ::: {.programme-block .talks}
-[14:00 – 14:30]{.time}
+[14:00 – 14:40]{.time}
 
 <h3>Lightning Talks 2</h3>
+
 <h4>Beyond the Sayable: Wittgenstein, Theory of Mind, and Affective Simulation of LLMs</h4>
 <h5>Haomiaomiao Wang; Lili Zhang; Tomás E Ward</h5>
 
@@ -88,12 +79,20 @@ Evidence-Based Gender Equality Actions in Computing Education</h4>
 <h5>Ruhi Anand Finn</h5>
 
 <h4>Qualitative research on supporting Early Career Research</h4>
-<h5>Ruhi Anand Finn</h5>
+<h5>Dr Mary Deasy</h5>
 :::
+
+::: {.programme-block .break}
+[14:40 – 15:00]{.time}
+Networking
+:::
+
 
 ::: {.programme-block .talks}
 [15:00 – 16:00]{.time}
-<h4>“I don’t like girls”: Centring Young Children’s Perspectives on Gender in Early Childhood Care and Education settings"</h4>
+<h3>Oral Talks</h3>
+
+<h4>“I don’t like girls”: Centring Young Children’s Perspectives on Gender in Early Childhood Care and Education settings</h4>
 <h5>Chloe Hurley</h5>
 This paper demonstrates that young children actively construct and reproduce gender norms within ECCE settings, insights that are often
 missed in adult-centred research. By centring children’s perspectives, it highlights critical gaps in educators’ gender-focused DEI knowledge and practices and the need for gender-responsive professional development.
