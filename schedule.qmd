@@ -18,9 +18,10 @@ title: "Programme for Women+ Early Career Research Symposium"
 [11:00 – 11:05]{.time}
 
 <h3>Welcome to the Women+ in Early Career Research Symposium</h3>
-<h4>Liz Darnell</h4>
 
+<h4>Liz Darnell</h4>
 :::
+
 ::: {.programme-block .keynote}
 [11:05 – 11:15]{.time}
 
@@ -31,14 +32,17 @@ title: "Programme for Women+ Early Career Research Symposium"
 [11:15 – 12:00]{.time}
 
 <h3>Keynote Address by Dr Ebun Joseph</h3>
-<p>Dr Ebun Joseph is a leading Inclusion and race relations consultant, and the founder and CEO of the Institute of Antiracism and Black Studies (IABS). She serves as Ireland’s Special Rapporteur on Racial Equality and Racism and is the module coordinator and lecturer for Black Studies at University College Dublin (UCD)—a pioneering course she established in 2018 as Ireland’s first. Dr Joseph is also the founder of the African Scholars Association Ireland (AfSAI), which she chaired from 2018 to 2022. Her previous roles include Career Development Consultant at the Royal College of Surgeons in Ireland (RCSI), Teaching Fellow at Trinity College Dublin (TCD), and Training and Employment Officer with the EPIC programme. An accomplished author, TV panellist, and equality activist, Dr Joseph’s research focuses on race, labour markets, and structural inequality. Her publications include Critical Race Theory and Inequality in the Labour Market (Manchester University Press, 2020); Equity in the Workplace series: Stories of Black Irish Women in Ireland (2024); Stories of Black Irish women in academia (2025), and Challenging Perceptions of Africa in Schools (Routledge, 2020).  Dr Joseph is the award winning author of the IRJ Prize awarded to the paper adjudicated to represent the best original contribution to the journal in a given year. ‘Composite counterstorytelling as a technique for challenging ambivalence about race and racism in the labour market in Ireland. She is also a documentary producer of 'Equity in the workplace' and is currently working on ECHOES OF 2004 to be launched February, 2026. Outside academia, she is the host of The DEeP Table Talk</p>
-:::
-::: {.programme-block .talks}
-[12:00 – 12:30]{.time}
-<h3>Publishing the Women+ in Early Career Research Symposium</h3>
-<h4>Andrea Heaney</h4>
+
+<p>Dr Ebun Joseph is a leading Inclusion and race relations consultant, and the founder and CEO of the Institute of Antiracism and Black Studies (IABS). She serves as Ireland’s Special Rapporteur on Racial Equality and Racism and is the module coordinator and lecturer for Black Studies at University College Dublin (UCD)—a pioneering course she established in 2018 as Ireland’s first. Dr Joseph is also the founder of the African Scholars Association Ireland (AfSAI), which she chaired from 2018 to 2022. Her previous roles include Career Development Consultant at the Royal College of Surgeons in Ireland (RCSI), Teaching Fellow at Trinity College Dublin (TCD), and Training and Employment Officer with the EPIC programme. An accomplished author, TV panellist, and equality activist, Dr Joseph’s research focuses on race, labour markets, and structural inequality. Her publications include Critical Race Theory and Inequality in the Labour Market (Manchester University Press, 2020); Equity in the Workplace series: Stories of Black Irish Women in Ireland (2024); Stories of Black Irish women in academia (2025), and Challenging Perceptions of Africa in Schools (Routledge, 2020). Dr Joseph is the award winning author of the IRJ Prize awarded to the paper adjudicated to represent the best original contribution to the journal in a given year. ‘Composite counterstorytelling as a technique for challenging ambivalence about race and racism in the labour market in Ireland. She is also a documentary producer of 'Equity in the workplace' and is currently working on ECHOES OF 2004 to be launched February, 2026. Outside academia, she is the host of The DEeP Table Talk</p>
 :::
 
+::: {.programme-block .talks}
+[12:00 – 12:30]{.time}
+
+<h3>Publishing the Women+ in Early Career Research Symposium</h3>
+
+<h4>Andrea Heaney</h4>
+:::
 
 ## Lunch
 
@@ -49,19 +53,22 @@ title: "Programme for Women+ Early Career Research Symposium"
 :::
 
 ## Afternoon
+
 ::: {.programme-block .talks}
 [13:30 – 14:00]{.time}
 
 <h3>Lightning Talks 1</h3>
-<h4>Assessment of internal sensor-derived pulmonary artery pressures to calculate cardiac output </h4>
+
+<h4>Assessment of internal sensor-derived pulmonary artery pressures to calculate cardiac output</h4>
 <h5>Autumn Johnson</h5>
+Pulmonary artery pressure waveforms from implanted sensors can be statistically modelled, beat by beat, to estimate cardiac output continuously and remotely in heart failure patients.
 
 <h4>When IRL Is Not an Option: Social Media Bans and the Exclusion of Autistic Youth</h4>
 <h5>Melanie Gruben, Michelle O'Keeffe, Hazel Murray</h5>
 
-<h4>Bridging Research and Practice: Your Guide to Implementing
-Evidence-Based Gender Equality Actions in Computing Education</h4>
+<h4>Bridging Research and Practice: Your Guide to Implementing Evidence-Based Gender Equality Actions in Computing Education</h4>
 <h5>Alina Berry</h5>
+TechMate provides with immediate access to 25+ research-driven gender equality initiatives (actions) that aim to enhance gender balance in computing education that you can start using today. No literature review required. Just practical, proven actions that you can access and implement based on your context.
 :::
 
 ::: {.programme-block .talks}
@@ -69,65 +76,98 @@ Evidence-Based Gender Equality Actions in Computing Education</h4>
 
 <h3>Lightning Talks 2</h3>
 
-<h4>Beyond the Sayable: Wittgenstein, Theory of Mind, and Affective Simulation of LLMs</h4>
-<h5>Haomiaomiao Wang; Lili Zhang; Tomás E Ward</h5>
+<h4>Beyond the Sayable:/n Wittgenstein, Theory of Mind, and Affective Simulation of LLMs</h4>
 
-<h4>Inside the Engagement Bubble: Positionality and Reflexivity in Co-Design of Outdoor Interactive Technology with Older Adults </h4>
+<h5>Haomiaomiao Wang; Lili Zhang; Tomás E Ward</h5>
+LLMs operate entirely within what can be said, yet their fluent simulation of affective language can obscure the limits of language identified by Wittgenstein.
+
+<h4>Inside the Engagement Bubble: Positionality and Reflexivity in Co-Design of Outdoor Interactive Technology with Older Adults</h4>
+
 <h5>Fatima Badmos, Emma Murphy, Damon Berry</h5>
 
 <h4>Am I walking straight? Gait, the new frontier of biometric identification</h4>
+
 <h5>Ruhi Anand Finn</h5>
 
 <h4>Qualitative research on supporting Early Career Research</h4>
+
 <h5>Dr Mary Deasy</h5>
 :::
 
 ::: {.programme-block .break}
 [14:40 – 15:00]{.time}
+
 <h5>Networking</h5>
 :::
 
-
 ::: {.programme-block .talks}
 [15:00 – 16:00]{.time}
+
 <h3>Oral Talks</h3>
 
 <h4>“I don’t like girls”: Centring Young Children’s Perspectives on Gender in Early Childhood Care and Education settings</h4>
-<h5>Chloe Hurley</h5>
-This paper demonstrates that young children actively construct and reproduce gender norms within ECCE settings, insights that are often
-missed in adult-centred research. By centring children’s perspectives, it highlights critical gaps in educators’ gender-focused DEI knowledge and practices and the need for gender-responsive professional development.
 
-<h4>Pelvic health: lived experience, needs and resources for women
-with pelvic organ prolapse</h4>
+<h5>Chloe Hurley</h5>
+
+This paper demonstrates that young children actively construct and reproduce gender norms within ECCE settings, insights that are often missed in adult-centred research. By centring children’s perspectives, it highlights critical gaps in educators’ gender-focused DEI knowledge and practices and the need for gender-responsive professional development.
+
+<h4>Pelvic health: lived experience, needs and resources for women with pelvic organ prolapse</h4>
+
 <h5>Louise Carrol</h5>
 
-<h4>The Ripple Effect: How the HSE Data Breach Shaped Public
-Opinion</h4>
+<h4>The Ripple Effect: How the HSE Data Breach Shaped Public Opinion</h4>
+
 <h5>Mugdha Srivastava</h5>
-Healthcare data breaches don’t just reduce trust, they change what
-trust depends on. After the Health Service Executive cyberattack,
-people were less concerned about technical security and more wor-
-ried about who can access and share their data. They still use and
-trust digital services, but they expect greater visibility and better
-incident reporting. This suggests that trustworthy artificial intelli-
-gence in healthcare must use and keep data visible and verifiable.
 
-<h4>Bridging the Interdisciplinary Gap between Food Studies and
-Literary Studies: Gastrocriticism</h4>
+Healthcare data breaches don’t just reduce trust, they change what trust depends on. After the Health Service Executive cyberattack, people were less concerned about technical security and more wor- ried about who can access and share their data. They still use and trust digital services, but they expect greater visibility and better incident reporting. This suggests that trustworthy artificial intelli- gence in healthcare must use and keep data visible and verifiable.
+
+<h4>Bridging the Interdisciplinary Gap between Food Studies and Literary Studies: Gastrocriticism</h4>
+
 <h5>Anke Klitzing</h5>
-Interdisciplinary work is valued but its intrinsic challenges are of-
-ten neglected, especially with regards to training novice scholars.
-In the interdisciplinary field of Literary Food Studies, the gastrocrit-
-ical approach with the heuristic tool of the Gastrocritical Reading
-Questions offers a solution to bridging this interdisciplinary gap.
 
+Interdisciplinary work is valued but its intrinsic challenges are of- ten neglected, especially with regards to training novice scholars. In the interdisciplinary field of Literary Food Studies, the gastrocrit- ical approach with the heuristic tool of the Gastrocritical Reading Questions offers a solution to bridging this interdisciplinary gap.
 :::
 
 ::: {.programme-block .keynote}
 [16:00 – 16:15]{.time}
 
 <h3>Closing Remarks</h3>
+
 <h4>Liz Darnell</h4>
 :::
 
 ## Poster Sessions
+
+::: {.programme-block .keynote}
+[12:30 – 13:30]{.time}
+
+<h4>LiDAR Mirror Detection Model for Autonomous Robotics</h4>
+<h5>Sofiia Sarana</h5>
+
+<h4>Generative AI for Reliable Satellite Imagery in Environmental Monitoring</h4>
+<h5>Shanika Surangi Edirisinghe</h5>
+
+<h4>Engaging Older Adults through Participatory Approaches for AI Literacy Development: A Multi Stakeholder and Artefact Driven Model for Digital Inclusion</h4>
+<h5>Paula Kelly</h5>
+How to engage Older Adults through Participatory Approaches for AI Literacy Development
+
+
+<h4>Comparative Time Series Forecasting of Pedestrian Footfall in dublin city center</h4>
+<h5>Mercy Koech</h5>
+Comparative study of pedestrian footfall using time series forecasting demonstrates that deep learning models particularly Long Short Term Memory(LSTM) outperform traditional statistical approaches in predicting pedestrian activity patterns in Dublin City Centre.
+
+<h4>Continuous Semantic Intelligence for Privacy-Aware Lifelogging</h4>
+<h5>Allie Tran</h5>
+Current lifelogging systems mostly store data and analyse it later, which limits their usefulness and creates privacy risks. This paper argues that lifelogging should instead analyse data as it is captured, enabling timely support and safer handling of personal information. We show that this is feasible by building SelfHealth, an early system that performs real-time semantic interpretation and privacy-aware processing on wearable data.
+
+<h4>Exploring the Role of Educational Experiences in Shaping Post-Primary Students’ Decisions to Pursue 3rd Level Computing in Ireland: A Longitudinal Ph.D Study.</h4>
+<h5>Miriam Heart</h5>
+Why Do Students Continue to Study Computer Science between 2nd and 3rd Level Education?
+
+<h4>A Human-Centred View of Maritime Autonomous Surface Ships Operations Using the SHELL Model</h4>
+<h5>Natasya Habibah</h5>
+This study applies the SHELL model to develop a human-centric framework for maritime autonomous surface ships operations, clarifying how human operators interact with the system’s software, hardware, environment, and liveware components.
+
+<h4>Mapping Socio-Energy Mismatch: Areas Where Social Deprivation and BER Diverge in Ireland</h4>
+<h5>Ankita Joshi</h5>
+:::
