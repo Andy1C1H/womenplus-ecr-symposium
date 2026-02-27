@@ -171,6 +171,9 @@ Current lifelogging systems mostly store data and analyse it later, which limits
 <h4>Exploring the Role of Educational Experiences in Shaping Post-Primary Students’ Decisions to Pursue 3rd Level Computing in Ireland: A Longitudinal Ph.D Study.</h4>
 <h5>Miriam Heart</h5>
 Why Do Students Continue to Study Computer Science between 2nd and 3rd Level Education?
+<h4>Exploring the Impact of a Digital Technologies CPD on the Self-Efficacy of Primary School Teachers</h4>
+<h5>Amanda O’Farrell</h5>
+
 
 <h4>A Human-Centred View of Maritime Autonomous Surface Ships Operations Using the SHELL Model</h4>
 <h5>Natasya Habibah</h5>
