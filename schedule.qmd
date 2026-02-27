@@ -20,6 +20,7 @@ title: "Programme for Women+ Early Career Research Symposium"
 <h3>Welcome to the Women+ in Early Career Research Symposium</h3>
 
 <h4>Liz Darnell</h4>
+<h5>Co-organiser of Women+ ECR</h5>
 :::
 
 ::: {.programme-block .keynote}
@@ -42,6 +43,8 @@ title: "Programme for Women+ Early Career Research Symposium"
 <h3>Publishing the Women+ in Early Career Research Symposium</h3>
 
 <h4>Andrea Heaney</h4>
+<h5>Co-organiser of Women+ ECR</h5>
+
 :::
 
 ## Lunch
@@ -88,6 +91,7 @@ LLMs operate entirely within what can be said, yet their fluent simulation of af
 <h4>Am I walking straight? Gait, the new frontier of biometric identification</h4>
 
 <h5>Ruhi Anand Finn</h5>
+As XR becomes more ubiquitous, the boundaries between real and virtual blur further, raising complexities for the regulation and management of risks originating from these spaces. The aim of the paper is to answer the question of How does the mass capture of gait biometrics in XR environments threaten social stability by transforming anonymous public interactions into a permanent state of identifiable surveillance?
 
 <h4>Qualitative research on supporting Early Career Research</h4>
 
@@ -134,6 +138,7 @@ Interdisciplinary work is valued but its intrinsic challenges are of- ten neglec
 <h3>Closing Remarks</h3>
 
 <h4>Liz Darnell</h4>
+<h5>Co-organiser of Women+ ECR</h5>
 :::
 
 ## Poster Sessions
@@ -143,9 +148,11 @@ Interdisciplinary work is valued but its intrinsic challenges are of- ten neglec
 
 <h4>LiDAR Mirror Detection Model for Autonomous Robotics</h4>
 <h5>Sofiia Sarana</h5>
+This paper presents a lightweight machine-learning model that detects mirror-induced artifacts in LiDAR data, enabling reliable mapping without additional sensors.The system runs on a resource constrained microcontroller platform, reducing hardware complexity and computational cost for autonomous robotic systems.
 
 <h4>Generative AI for Reliable Satellite Imagery in Environmental Monitoring</h4>
 <h5>Shanika Surangi Edirisinghe</h5>
+Clouds obstruct a large portion of satellite imagery used for environmental decision-making. This research shows that generative AI can reliably reconstruct cloud-obstructed satellite images, im- proving the availability of usable Earth observation data for a wide range of downstream application domains.
 
 <h4>Engaging Older Adults through Participatory Approaches for AI Literacy Development: A Multi Stakeholder and Artefact Driven Model for Digital Inclusion</h4>
 <h5>Paula Kelly</h5>
