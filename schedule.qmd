@@ -15,17 +15,33 @@ title: "Programme (Draft)"
 :::
 
 ::: {.programme-block .keynote}
-[11:00 – 11:15]{.time}
+[11:00 – 11:05]{.time}
 
-<h3>Welcome & Opening Remarks</h3>
+<h3>Welcome to the Women+ in Early Career Research Symposium</h3>
+<h4>Liz Darnell</h4>
+
+:::
+::: {.programme-block .keynote}
+[11:05 – 11:15]{.time}
+
+<h3>Opening Remarks</h3>
 :::
 
 ::: {.programme-block .keynote}
-[11:20 – 12:10]{.time}
+[11:15 – 12:00]{.time}
 
-<h3>Keynote Address</h3>
+<h3>Keynote Address by Dr Ebun Joseph</h3>
+<p>Dr Ebun Joseph is a leading Inclusion and race relations consultant, and the founder and CEO of the Institute of Antiracism and Black Studies (IABS). She serves as Ireland’s Special Rapporteur on Racial Equality and Racism and is the module coordinator and lecturer for Black Studies at University College Dublin (UCD)—a pioneering course she established in 2018 as Ireland’s first. Dr Joseph is also the founder of the African Scholars Association Ireland (AfSAI), which she chaired from 2018 to 2022. Her previous roles include Career Development Consultant at the Royal College of Surgeons in Ireland (RCSI), Teaching Fellow at Trinity College Dublin (TCD), and Training and Employment Officer with the EPIC programme. An accomplished author, TV panellist, and equality activist, Dr Joseph’s research focuses on race, labour markets, and structural inequality. Her publications include Critical Race Theory and Inequality in the Labour Market (Manchester University Press, 2020); Equity in the Workplace series: Stories of Black Irish Women in Ireland (2024); Stories of Black Irish women in academia (2025), and Challenging Perceptions of Africa in Schools (Routledge, 2020).  Dr Joseph is the award winning author of the IRJ Prize awarded to the paper adjudicated to represent the best original contribution to the journal in a given year. ‘Composite counterstorytelling as a technique for challenging ambivalence about race and racism in the labour market in Ireland. She is also a documentary producer of 'Equity in the workplace' and is currently working on ECHOES OF 2004 to be launched February, 2026. Outside academia, she is the host of The DEeP Table Talk</p>
+:::
+::: {.programme-block .talks}
+[12:00 – 12:15]{.time}
+<h3>Publishing the Women+ in Early Career Research Symposium</h3>
+<h4>Andrea Heaney</h4>
+:::
+::: {.programme-block .talks}
+[12:10 – 12:30]{.time}
 
-<p>Speaker Dr Ebun Joseph</p>
+<h3></h3>
 :::
 
 ::: {.programme-block .talks}
@@ -44,14 +60,40 @@ title: "Programme (Draft)"
 
 ## Afternoon
 ::: {.programme-block .talks}
+[13:30 – 14:00]{.time}
+
+<h3>Lightning Talks 1</h3>
+<h4>Assessment of internal sensor-derived pulmonary artery pressures to calculate cardiac output </h4>
+<h5>Autumn Johnson</h5>
+
+<h4>When IRL Is Not an Option: Social Media Bans and the Exclusion of Autistic Youth</h4>
+<h5>Melanie Gruben, Michelle O'Keeffe, Hazel Murray</h5>
+
+<h4>Bridging Research and Practice: Your Guide to Implementing
+Evidence-Based Gender Equality Actions in Computing Education</h4>
+<h5>Alina Berry</h5>
+:::
+
+::: {.programme-block .talks}
 [14:00 – 14:30]{.time}
 
-<h3>4 Lightning Talks</h3>
+<h3>Lightning Talks 2</h3>
+<h4>Beyond the Sayable: Wittgenstein, Theory of Mind, and Affective Simulation of LLMs</h4>
+<h5>Haomiaomiao Wang; Lili Zhang; Tomás E Ward</h5>
+
+<h4>Inside the Engagement Bubble: Positionality and Reflexivity in Co-Design of Outdoor Interactive Technology with Older Adults </h4>
+<h5>Fatima Badmos, Emma Murphy, Damon Berry</h5>
+
+<h4>Am I walking straight? Gait, the new frontier of biometric identification</h4>
+<h5>Ruhi Anand Finn</h5>
+
+<h4>Qualitative research on supporting Early Career Research</h4>
+<h5>Ruhi Anand Finn</h5>
 :::
 
 ::: {.programme-block .talks}
 [15:00 – 16:00]{.time}
-<h4>"“I don’t like girls”: Centring Young Children’s Perspectives on Gender in Early Childhood Care and Education settings"</h4>
+<h4>“I don’t like girls”: Centring Young Children’s Perspectives on Gender in Early Childhood Care and Education settings"</h4>
 <h5>Chloe Hurley</h5>
 This paper demonstrates that young children actively construct and reproduce gender norms within ECCE settings, insights that are often
 missed in adult-centred research. By centring children’s perspectives, it highlights critical gaps in educators’ gender-focused DEI knowledge and practices and the need for gender-responsive professional development.
@@ -79,13 +121,14 @@ ten neglected, especially with regards to training novice scholars.
 In the interdisciplinary field of Literary Food Studies, the gastrocrit-
 ical approach with the heuristic tool of the Gastrocritical Reading
 Questions offers a solution to bridging this interdisciplinary gap.
-<h4></h4>
+
 :::
 
 ::: {.programme-block .keynote}
 [16:00 – 16:15]{.time}
 
 <h3>Closing Remarks</h3>
+<h4>Liz Darnell</h4>
 :::
 
 ## Poster Sessions
