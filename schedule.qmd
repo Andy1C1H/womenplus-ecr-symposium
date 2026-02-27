@@ -1,5 +1,5 @@
 ---
-title: "Programme (Draft)"
+title: "Programme for Women+ Early Career Research Symposium"
 ---
 
 ::: callout-purple
@@ -84,7 +84,7 @@ Evidence-Based Gender Equality Actions in Computing Education</h4>
 
 ::: {.programme-block .break}
 [14:40 – 15:00]{.time}
-Networking
+<h5>Networking</h5>
 :::
 
 

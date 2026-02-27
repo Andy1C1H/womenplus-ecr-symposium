@@ -2,17 +2,25 @@
 title: "Women+ ECR Symposium"
 ---
 
-::: callout-purple
-## Timeline update
-Due to popular demand we have updated the submission deadline to the **11th February 2026 at 11.59pm IST**
-:::
-
 On the **6^th^ of March** **2026,** to celebrate International Women’s Day, we will hold our first *Women+ in Early Career Research Symposium* at TU Dublin's city campus. The aim of this symposium is to create a supportive, inclusive space to showcase research, foster cross-disciplinary dialogue, and build networks among women and gender-diverse researchers at early career stages.
 
-We invite paper submissions from **early-career women+ researchers** across disciplines, including STEM, humanities, health, creative practice, and interdisciplinary work. We especially encourage submissions from researchers whose voices are underrepresented in academia, including those from marginalized backgrounds, caregiving roles, regional institutions, and non-traditional career pathways.
+We will have a number of presentations from **early-career women+ researchers** across disciplines, including STEM, humanities, health, creative practice, and interdisciplinary work. All presentations will be given in an accessible science communication format. All accepted papers will be published on [Arrow](https://arrow.tudublin.ie/) TU Dublin’s Open Access institutional repository. There will be no charge for publishing on Arrow.
 
-Due to the interdisciplinary nature of the symposium, researchers outside your field may be reviewing your paper; for this reason, we ask all papers, presentations, and posters to be pitched at a broad scientific audience level. All accepted papers will be published on [Arrow](https://arrow.tudublin.ie/) TU Dublin’s Open Access institutional repository. There will be no charge for publishing on Arrow.
 
+
+## Attending the Women+ in ECR Symposium
+
+**Location**\
+TU Dublin's Grangegorman Campus, Central Quad, Ground floor room 007 [Open Map to Central Quad](https://link.mazemap.com/UKfQbwbW){.btn .btn-primary}
+
+**Who can Attend**\
+Any gender at any stage of their research career, once you register.
+
+**How to Attend**\
+We ask that all those who wish to attendd fill out this registration form:
+[Open Registration form](https://forms.office.com/e/Szp8Kf2cTB){.btn .btn-primary}
+For organisational and catering purposes we ask if you can no longer attend that you email the organisers.
+ 
 ## Who Can Submit
 
 -   Early career researchers including but not limited to PhD candidates, postdoctoral researchers or those in their first 10 years of research
@@ -142,18 +150,7 @@ No. It is a single blind review process (i.e. your reviewer will know you but yo
 :::
 
 
-## Attending the Women+ in ECR Symposium
 
-**Location**\
-TU Dublin's Grangegorman Campus, Central Quad, Ground floor room 007 [Open Map to Central Quad](https://link.mazemap.com/UKfQbwbW){.btn .btn-primary}
-
-**Who can Attend**\
-Any gender at any stage of their research career, once you register.
-
-**How to Attend**\
-We ask that all those who wish to attendd fill out this registration form:
-[Open Registration form](https://forms.office.com/e/Szp8Kf2cTB){.btn .btn-primary}
-For organisational and catering purposes we ask if you can no longer attend that you email the organisers.
 
 ::: callout-purple
 ## Key Dates
