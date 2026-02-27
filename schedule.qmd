@@ -59,16 +59,27 @@ missed in adult-centred research. By centring children’s perspectives, it high
 <h4>Pelvic health: lived experience, needs and resources for women
 with pelvic organ prolapse</h4>
 <h5>Louise Carrol</h5>
-This thesis demonstrates that pelvic organ prolapse (POP)
-is a common, disabling female health issue, signicantly affecting women’s physical, emotional, and social well-being. The research shows that women, particularly those of re-
-productive age, experience substantial knowledge gaps, difficulty accessing trustworthy information, and barriers to seeking and receiving care, which contribute to distress and
-reduced quality of life. Through systematic review, qualitative research, and co-design methodology, the thesis identifies these unmet needs and responds by developing and
-evaluating a national evidence-based educational website www.pelvichealthireland.ie to improve pelvic health literacy, reduce stigma and support self-management. The work argues for a shift toward patient-centred, biopsychosocial, and empowerment-focused approaches in pelvic health research and clinical practice.
-<h3>Mugdha Srivastava</h3>
 
-<h3>Anke Klitzing</h3>
-Bridging the Interdisciplinary Gap between Food Studies and
-Literary Studies: Gastrocriticism
+<h4>The Ripple Effect: How the HSE Data Breach Shaped Public
+Opinion</h4>
+<h5>Mugdha Srivastava</h5>
+Healthcare data breaches don’t just reduce trust, they change what
+trust depends on. After the Health Service Executive cyberattack,
+people were less concerned about technical security and more wor-
+ried about who can access and share their data. They still use and
+trust digital services, but they expect greater visibility and better
+incident reporting. This suggests that trustworthy artificial intelli-
+gence in healthcare must use and keep data visible and verifiable.
+
+<h4>Bridging the Interdisciplinary Gap between Food Studies and
+Literary Studies: Gastrocriticism</h4>
+<h5>Anke Klitzing</h5>
+Interdisciplinary work is valued but its intrinsic challenges are of-
+ten neglected, especially with regards to training novice scholars.
+In the interdisciplinary field of Literary Food Studies, the gastrocrit-
+ical approach with the heuristic tool of the Gastrocritical Reading
+Questions offers a solution to bridging this interdisciplinary gap.
+<h4></h4>
 :::
 
 ::: {.programme-block .keynote}
