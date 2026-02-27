@@ -79,7 +79,8 @@ TechMate provides with immediate access to 25+ research-driven gender equality i
 
 <h3>Lightning Talks 2</h3>
 
-<h4>Beyond the Sayable:/n Wittgenstein, Theory of Mind, and Affective Simulation of LLMs</h4>
+<h4>Beyond the Sayable: 
+Wittgenstein, Theory of Mind, and Affective Simulation of LLMs</h4>
 
 <h5>Haomiaomiao Wang; Lili Zhang; Tomás E Ward</h5>
 LLMs operate entirely within what can be said, yet their fluent simulation of affective language can obscure the limits of language identified by Wittgenstein.
