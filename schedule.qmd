@@ -3,7 +3,7 @@ title: "Programme (Draft)"
 ---
 
 ::: callout-purple
-**Draft schedule – subject to change**
+**Schedule – subject to change**
 :::
 
 ## Morning
@@ -15,7 +15,7 @@ title: "Programme (Draft)"
 :::
 
 ::: {.programme-block .keynote}
-[11:00 – 11:20]{.time}
+[11:00 – 11:15]{.time}
 
 <h3>Welcome & Opening Remarks</h3>
 :::
@@ -25,13 +25,13 @@ title: "Programme (Draft)"
 
 <h3>Keynote Address</h3>
 
-<p>Speaker TBC</p>
+<p>Speaker Dr Ebun Joseph</p>
 :::
 
 ::: {.programme-block .talks}
 [12:10 – 12:30]{.time}
 
-<h3>1st Year PhD Panel</h3>
+<h3></h3>
 :::
 
 ## Lunch
@@ -50,13 +50,16 @@ title: "Programme (Draft)"
 :::
 
 ::: {.programme-block .talks}
-[14:30 – 15:30]{.time}
+[15:00 – 16:00]{.time}
 
-<h3>4 Oral Talks</h3>
+<h3>Chloe Hurley</h3>
+<h3>Louise Carroll</h3>
+<h3>Mugdha Srivastava</h3>
+<h3>Anke Klitzing</h3>
 :::
 
 ::: {.programme-block .keynote}
-[15:30 – 16:00]{.time}
+[16:00 – 16:15]{.time}
 
 <h3>Closing Remarks</h3>
 :::
