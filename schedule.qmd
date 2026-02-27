@@ -37,7 +37,7 @@ title: "Programme (Draft)"
 ## Lunch
 
 ::: {.programme-block .break}
-[13:00 – 14:00]{.time}
+[12:30 – 13:30]{.time}
 
 <h3>Lunch and Posters</h3>
 :::
@@ -51,12 +51,19 @@ title: "Programme (Draft)"
 
 ::: {.programme-block .talks}
 [15:00 – 16:00]{.time}
+<h4>"“I don’t like girls”: Centring Young Children’s Perspectives on Gender in Early Childhood Care and Education settings"</h4>
+<h5>Chloe Hurley</h5>
+This paper demonstrates that young children actively construct and reproduce gender norms within ECCE settings, insights that are often
+missed in adult-centred research. By centring children’s perspectives, it highlights critical gaps in educators’ gender-focused DEI knowledge and practices and the need for gender-responsive professional development.
 
-<h3>Chloe Hurley</h3>
-"“I don’t like girls”: Centring Young Children’s Perspectives on Gender in Early Childhood Care and Education settings"
-<h3>Pelvic health: lived experience, needs and resources for women
-with pelvic organ prolapse</h3>
-Louise Carrol
+<h4>Pelvic health: lived experience, needs and resources for women
+with pelvic organ prolapse</h4>
+<h5>Louise Carrol</h5>
+This thesis demonstrates that pelvic organ prolapse (POP)
+is a common, disabling female health issue, signicantly affecting women’s physical, emotional, and social well-being. The research shows that women, particularly those of re-
+productive age, experience substantial knowledge gaps, difficulty accessing trustworthy information, and barriers to seeking and receiving care, which contribute to distress and
+reduced quality of life. Through systematic review, qualitative research, and co-design methodology, the thesis identifies these unmet needs and responds by developing and
+evaluating a national evidence-based educational website www.pelvichealthireland.ie to improve pelvic health literacy, reduce stigma and support self-management. The work argues for a shift toward patient-centred, biopsychosocial, and empowerment-focused approaches in pelvic health research and clinical practice.
 <h3>Mugdha Srivastava</h3>
 
 <h3>Anke Klitzing</h3>
@@ -69,3 +76,5 @@ Literary Studies: Gastrocriticism
 
 <h3>Closing Remarks</h3>
 :::
+
+## Poster Sessions
