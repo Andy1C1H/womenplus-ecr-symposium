@@ -27,6 +27,8 @@ title: "Programme for Women+ Early Career Research Symposium"
 [11:05 – 11:15]{.time}
 
 <h3>Opening Remarks</h3>
+<h4>Dr Dympna O'Sullivan</h4>
+<h5>VP for Research and Innovation TU Dublin</h5>
 :::
 
 ::: {.programme-block .keynote}
