@@ -63,6 +63,8 @@ title: "Programme for Women+ Early Career Research Symposium"
 [13:30 – 14:00]{.time}
 
 <h3>Lightning Talks 1</h3>
+<h3>Chair Dr. Louise Hanson</h3>
+
 
 <h4>Assessment of internal sensor-derived pulmonary artery pressures to calculate cardiac output</h4>
 <h5>Autumn Johnson</h5>
@@ -80,6 +82,7 @@ TechMate provides with immediate access to 25+ research-driven gender equality i
 [14:00 – 14:40]{.time}
 
 <h3>Lightning Talks 2</h3>
+<h3>Chair Alina Berry 2</h3>
 
 <h4>Beyond the Sayable: 
 Wittgenstein, Theory of Mind, and Affective Simulation of LLMs</h4>
@@ -111,6 +114,7 @@ As XR becomes more ubiquitous, the boundaries between real and virtual blur furt
 [15:00 – 16:00]{.time}
 
 <h3>Oral Talks</h3>
+<h3>Dr. Elizabeth Resor 2</h3>
 
 <h4>“I don’t like girls”: Centring Young Children’s Perspectives on Gender in Early Childhood Care and Education settings</h4>
 
